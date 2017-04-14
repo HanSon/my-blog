@@ -3,4 +3,4 @@
 	url = git@github.com:HanSon/typecho_material_theme.git
 [submodule "usr/plugins/Links"]
 	path = usr/plugins/Links
-	url = https://github.com/HanSon/Links_for_Material_Theme.git
+	url = git@github.com:HanSon/Links_for_Material_Theme.git
