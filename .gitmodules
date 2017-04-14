@@ -1,0 +1,6 @@
+[submodule "usr/themes/typecho_material_theme"]
+	path = usr/themes/typecho_material_theme
+	url = git@github.com:HanSon/typecho_material_theme.git
+[submodule "usr/plugins/Links"]
+	path = usr/plugins/Links
+	url = git@github.com:HanSon/Links_for_Material_Theme.git
